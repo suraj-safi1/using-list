@@ -1,0 +1,6 @@
+>>> list=['america','India','germany','russia','china']
+>>> list[4]="nepal"
+>>> print(list)
+>>> list.remove('germany')
+>>> print(list)
+
